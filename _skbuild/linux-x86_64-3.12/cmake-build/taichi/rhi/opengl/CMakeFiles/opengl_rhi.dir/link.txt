@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopengl_rhi.a CMakeFiles/opengl_rhi.dir/opengl_device.cpp.o CMakeFiles/opengl_rhi.dir/opengl_api.cpp.o CMakeFiles/opengl_rhi.dir/__/__/__/external/glad/src/egl.c.o CMakeFiles/opengl_rhi.dir/__/__/__/external/glad/src/gl.c.o
+/usr/bin/ranlib libopengl_rhi.a

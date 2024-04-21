@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtaichi_util.a CMakeFiles/taichi_util.dir/action_recorder.cpp.o CMakeFiles/taichi_util.dir/bit.cpp.o CMakeFiles/taichi_util.dir/file_sequence_writer.cpp.o CMakeFiles/taichi_util.dir/image_buffer.cpp.o CMakeFiles/taichi_util.dir/image_io.cpp.o CMakeFiles/taichi_util.dir/lang_util.cpp.o CMakeFiles/taichi_util.dir/offline_cache.cpp.o CMakeFiles/taichi_util.dir/short_name.cpp.o CMakeFiles/taichi_util.dir/str.cpp.o CMakeFiles/taichi_util.dir/testing.cpp.o CMakeFiles/taichi_util.dir/zip.cpp.o
+/usr/bin/ranlib libtaichi_util.a

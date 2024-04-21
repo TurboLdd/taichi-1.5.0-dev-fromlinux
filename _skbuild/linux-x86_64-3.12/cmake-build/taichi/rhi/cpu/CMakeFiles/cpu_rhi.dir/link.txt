@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpu_rhi.a CMakeFiles/cpu_rhi.dir/cpu_device.cpp.o
+/usr/bin/ranlib libcpu_rhi.a

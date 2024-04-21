@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinterop_rhi.a CMakeFiles/interop_rhi.dir/vulkan_cpu_interop.cpp.o CMakeFiles/interop_rhi.dir/vulkan_cuda_interop.cpp.o
+/usr/bin/ranlib libinterop_rhi.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libllvm_runtime.a CMakeFiles/llvm_runtime.dir/llvm_runtime_executor.cpp.o CMakeFiles/llvm_runtime.dir/llvm_offline_cache.cpp.o CMakeFiles/llvm_runtime.dir/llvm_context.cpp.o CMakeFiles/llvm_runtime.dir/llvm_aot_module_loader.cpp.o CMakeFiles/llvm_runtime.dir/llvm_aot_module_builder.cpp.o CMakeFiles/llvm_runtime.dir/launch_arg_info.cpp.o CMakeFiles/llvm_runtime.dir/snode_tree_buffer_manager.cpp.o
+/usr/bin/ranlib libllvm_runtime.a

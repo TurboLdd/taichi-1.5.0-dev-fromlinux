@@ -1,0 +1,2 @@
+/usr/bin/ar qc libllvm_program_impl.a CMakeFiles/llvm_program_impl.dir/llvm_program.cpp.o
+/usr/bin/ranlib libllvm_program_impl.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_rhi.a CMakeFiles/cuda_rhi.dir/cuda_device.cpp.o CMakeFiles/cuda_rhi.dir/cuda_caching_allocator.cpp.o CMakeFiles/cuda_rhi.dir/cuda_context.cpp.o CMakeFiles/cuda_rhi.dir/cuda_driver.cpp.o CMakeFiles/cuda_rhi.dir/cuda_profiler.cpp.o CMakeFiles/cuda_rhi.dir/cupti_toolkit.cpp.o
+/usr/bin/ranlib libcuda_rhi.a

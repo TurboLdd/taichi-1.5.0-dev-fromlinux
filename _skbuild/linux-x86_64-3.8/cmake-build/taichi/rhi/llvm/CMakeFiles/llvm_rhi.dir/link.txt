@@ -1,0 +1,2 @@
+/usr/bin/ar qc libllvm_rhi.a CMakeFiles/llvm_rhi.dir/llvm_device.cpp.o
+/usr/bin/ranlib libllvm_rhi.a

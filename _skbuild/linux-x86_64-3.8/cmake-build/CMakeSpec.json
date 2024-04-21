@@ -1,0 +1,1 @@
+{"args": ["/home/turbodamper/.local/lib/python3.8/site-packages/cmake/data/bin/cmake", "-DTI_VERSION_MAJOR=1", "-DTI_VERSION_MINOR=5", "-DTI_VERSION_PATCH=0", "-DCMAKE_BUILD_TYPE:STRING=Release"], "version": "3.21.2", "environment": {"PYTHONNOUSERSITE": null, "PYTHONPATH": "/home/turbodamper/SU2Package/SU2_RUN/bin:"}}

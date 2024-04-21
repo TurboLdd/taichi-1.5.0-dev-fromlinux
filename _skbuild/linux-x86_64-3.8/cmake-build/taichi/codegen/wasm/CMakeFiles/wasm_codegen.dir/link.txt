@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwasm_codegen.a CMakeFiles/wasm_codegen.dir/codegen_wasm.cpp.o
+/usr/bin/ranlib libwasm_codegen.a

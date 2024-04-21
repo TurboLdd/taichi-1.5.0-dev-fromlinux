@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpu_runtime.a CMakeFiles/cpu_runtime.dir/aot_module_builder_impl.cpp.o CMakeFiles/cpu_runtime.dir/aot_module_loader_impl.cpp.o CMakeFiles/cpu_runtime.dir/jit_cpu.cpp.o
+/usr/bin/ranlib libcpu_runtime.a

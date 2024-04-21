@@ -1,0 +1,2 @@
+/usr/bin/ar qc libllvm_codegen.a CMakeFiles/llvm_codegen.dir/codegen_llvm.cpp.o CMakeFiles/llvm_codegen.dir/codegen_llvm_quant.cpp.o CMakeFiles/llvm_codegen.dir/llvm_codegen_utils.cpp.o CMakeFiles/llvm_codegen.dir/struct_llvm.cpp.o
+/usr/bin/ranlib libllvm_codegen.a

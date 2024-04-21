@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcompilation_manager.a CMakeFiles/compilation_manager.dir/kernel_compilation_manager.cpp.o
+/usr/bin/ranlib libcompilation_manager.a

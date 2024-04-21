@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_runtime.a CMakeFiles/cuda_runtime.dir/aot_module_builder_impl.cpp.o CMakeFiles/cuda_runtime.dir/aot_module_loader_impl.cpp.o CMakeFiles/cuda_runtime.dir/jit_cuda.cpp.o
+/usr/bin/ranlib libcuda_runtime.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwasm_runtime.a CMakeFiles/wasm_runtime.dir/aot_module_builder_impl.cpp.o
+/usr/bin/ranlib libwasm_runtime.a

@@ -1,0 +1,1 @@
+{"args": ["/home/turbodamper/anaconda3/envs/taichi_dev/bin/cmake", "-DTI_VERSION_MAJOR=1", "-DTI_VERSION_MINOR=5", "-DTI_VERSION_PATCH=0", "-DCMAKE_BUILD_TYPE:STRING=Release"], "version": "3.26.4", "environment": {"PYTHONNOUSERSITE": null, "PYTHONPATH": null}}

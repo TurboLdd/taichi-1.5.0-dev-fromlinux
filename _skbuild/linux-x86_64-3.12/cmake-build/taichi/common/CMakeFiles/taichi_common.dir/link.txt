@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtaichi_common.a CMakeFiles/taichi_common.dir/cleanup.cpp.o CMakeFiles/taichi_common.dir/core.cpp.o CMakeFiles/taichi_common.dir/json.cpp.o CMakeFiles/taichi_common.dir/logging.cpp.o CMakeFiles/taichi_common.dir/symbol_version.cpp.o CMakeFiles/taichi_common.dir/virtual_dir.cpp.o CMakeFiles/taichi_common.dir/zip.cpp.o CMakeFiles/taichi_common.dir/miniz.c.o
+/usr/bin/ranlib libtaichi_common.a

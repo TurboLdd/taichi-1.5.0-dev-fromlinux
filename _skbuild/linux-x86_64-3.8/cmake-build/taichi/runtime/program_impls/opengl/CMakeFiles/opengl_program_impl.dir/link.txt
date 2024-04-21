@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopengl_program_impl.a CMakeFiles/opengl_program_impl.dir/opengl_program.cpp.o
+/usr/bin/ranlib libopengl_program_impl.a

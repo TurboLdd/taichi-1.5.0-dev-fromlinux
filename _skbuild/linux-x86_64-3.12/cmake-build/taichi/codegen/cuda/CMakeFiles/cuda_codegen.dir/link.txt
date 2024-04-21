@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_codegen.a CMakeFiles/cuda_codegen.dir/codegen_cuda.cpp.o
+/usr/bin/ranlib libcuda_codegen.a

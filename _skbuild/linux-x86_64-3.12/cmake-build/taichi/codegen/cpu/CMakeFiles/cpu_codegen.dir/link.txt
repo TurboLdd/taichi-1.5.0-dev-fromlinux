@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpu_codegen.a CMakeFiles/cpu_codegen.dir/codegen_cpu.cpp.o
+/usr/bin/ranlib libcpu_codegen.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspirv_codegen.a CMakeFiles/spirv_codegen.dir/kernel_utils.cpp.o CMakeFiles/spirv_codegen.dir/snode_struct_compiler.cpp.o CMakeFiles/spirv_codegen.dir/spirv_codegen.cpp.o CMakeFiles/spirv_codegen.dir/spirv_ir_builder.cpp.o CMakeFiles/spirv_codegen.dir/spirv_types.cpp.o CMakeFiles/spirv_codegen.dir/compiled_kernel_data.cpp.o CMakeFiles/spirv_codegen.dir/kernel_compiler.cpp.o
+/usr/bin/ranlib libspirv_codegen.a
